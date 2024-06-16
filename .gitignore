@@ -1,9 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+
+/src/Components/Assets
 /node_modules
 
 /src/Components/Assets
+
 
 /.pnp
 .pnp.js
