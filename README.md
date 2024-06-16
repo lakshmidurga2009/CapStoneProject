@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 
+
 # Create a react app using the below command and the foldr structure appears including package-json and other node modules
 npx create-react-app .
 
@@ -8,13 +9,18 @@ npx create-react-app .
 # Install router using the below command 
 npm install react-router-dom
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+
 ### `npm start` to run the application
+
+### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.

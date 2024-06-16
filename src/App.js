@@ -7,6 +7,9 @@ import LoginSignup from './Pages/LoginSignUp';
 import Footer from './Components/Footer/Footer';
 
 
+
+
+
 function App() {
   return (
     <div>  
@@ -14,9 +17,11 @@ function App() {
       <Navbar/>
       <Routes>
       <Route path='/' element={<Shop/>}/>
+
       <Route path='/login' element={<LoginSignup/>}/>
-      </Routes>
-      
+
+      </Routes>      
+
       <Footer/>
       
       </BrowserRouter>    
