@@ -9,6 +9,10 @@ import ShopCategory from './Pages/ShopCategory';
 import Shop from './Pages/Shop';
 import LoginSignup from './Pages/LoginSignUp';
 import Footer from './Components/Footer/Footer';
+import women_banner from "./Components/Assets/banner_women.png";
+import men_banner from "./Components/Assets/banner_mens.png";
+import kid_banner from "./Components/Assets/banner_kids.png";
+import ShopCategory from './Pages/ShopCategory';
 
 
 
