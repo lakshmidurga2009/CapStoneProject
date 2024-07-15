@@ -11,11 +11,11 @@ const Shop = () => {
     <div>   
 
     
-      <Popular/> 
+    
    
 
     <Hero/> 
-      
+    <Popular/> 
       <Offers/>
       <NewCollections/>
       <NewsLetter/>
